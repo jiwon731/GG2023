@@ -4,3 +4,4 @@ build/
 *.so
 *_model_*
 dump/
+pydart2/
